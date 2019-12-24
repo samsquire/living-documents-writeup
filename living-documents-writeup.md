@@ -114,7 +114,7 @@ This is an expected user-interaction:
 ![Recursive definition](liveinterface/design/normalview.png "Recursive definition")
 ![Recursive definition](liveinterface/design/expanded.png "Recursive definition")
 ![Recursive definition](liveinterface/design/ListsOfLists.png "Recursive definition")
-
+![Recursive definition](liveinterface/design/completed-recursive-definition.png "Completed recursive definition")
 
 ## Why is it useful?
 
